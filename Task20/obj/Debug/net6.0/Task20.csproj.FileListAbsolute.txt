@@ -1,0 +1,15 @@
+C:\Users\Ира\Desktop\Seminar3_Homework\Seminar3_Homework\Task20\bin\Debug\net6.0\Task20.exe
+C:\Users\Ира\Desktop\Seminar3_Homework\Seminar3_Homework\Task20\bin\Debug\net6.0\Task20.deps.json
+C:\Users\Ира\Desktop\Seminar3_Homework\Seminar3_Homework\Task20\bin\Debug\net6.0\Task20.runtimeconfig.json
+C:\Users\Ира\Desktop\Seminar3_Homework\Seminar3_Homework\Task20\bin\Debug\net6.0\Task20.dll
+C:\Users\Ира\Desktop\Seminar3_Homework\Seminar3_Homework\Task20\bin\Debug\net6.0\Task20.pdb
+C:\Users\Ира\Desktop\Seminar3_Homework\Seminar3_Homework\Task20\obj\Debug\net6.0\Task20.csproj.AssemblyReference.cache
+C:\Users\Ира\Desktop\Seminar3_Homework\Seminar3_Homework\Task20\obj\Debug\net6.0\Task20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ира\Desktop\Seminar3_Homework\Seminar3_Homework\Task20\obj\Debug\net6.0\Task20.AssemblyInfoInputs.cache
+C:\Users\Ира\Desktop\Seminar3_Homework\Seminar3_Homework\Task20\obj\Debug\net6.0\Task20.AssemblyInfo.cs
+C:\Users\Ира\Desktop\Seminar3_Homework\Seminar3_Homework\Task20\obj\Debug\net6.0\Task20.csproj.CoreCompileInputs.cache
+C:\Users\Ира\Desktop\Seminar3_Homework\Seminar3_Homework\Task20\obj\Debug\net6.0\Task20.dll
+C:\Users\Ира\Desktop\Seminar3_Homework\Seminar3_Homework\Task20\obj\Debug\net6.0\refint\Task20.dll
+C:\Users\Ира\Desktop\Seminar3_Homework\Seminar3_Homework\Task20\obj\Debug\net6.0\Task20.pdb
+C:\Users\Ира\Desktop\Seminar3_Homework\Seminar3_Homework\Task20\obj\Debug\net6.0\Task20.genruntimeconfig.cache
+C:\Users\Ира\Desktop\Seminar3_Homework\Seminar3_Homework\Task20\obj\Debug\net6.0\ref\Task20.dll
